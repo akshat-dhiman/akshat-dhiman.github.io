@@ -186,8 +186,8 @@ margin-bottom: 2%!important;
     border-radius: 100%;
     cursor: pointer;
   }
-  .fa-facebook {
-    background: #3B5998;
+  .fa-medium {
+    background: rgb(2, 158, 116);
     color: white;
   }
   .fa-youtube {
@@ -794,7 +794,7 @@ margin-bottom: 2%!important;
     cursor: pointer;
   }
   .fa-facebook {
-    background: #3B5998;
+    background: rgb(2, 158, 116);
     color: white;
   }
   .fa-youtube {
@@ -1454,7 +1454,7 @@ right:2%;
   border-radius: 100%;
 }
 .fa-facebook {
-  background: #3B5998;
+  background: rgb(2, 158, 116);
   color: white;
 }
 .fa-youtube {
