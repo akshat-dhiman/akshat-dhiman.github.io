@@ -77,8 +77,8 @@
     color: white;
   }
 
-  .fa-pinterest {
-    background: #cb2027;
+  .fa-medium {
+    background: rgb(2, 158, 116);
     color: white;
   }
   .fa-github{
@@ -295,8 +295,8 @@ position: fixed!important;
   color: white;
 }
 
-.fa-pinterest {
-  background: #cb2027;
+.fa-medium {
+  background: rgb(2, 158, 116);
   color: white;
 }
 .fa-github{
